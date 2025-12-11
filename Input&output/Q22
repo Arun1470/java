@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc=new Scanner (System.in);
+		int tamil=sc.nextInt();
+		int English=sc.nextInt();
+		int Maths=sc.nextInt();
+		int Chemistry=sc.nextInt();
+		int Physics=sc.nextInt();
+		System.out.println(" Tamil Mark:"+tamil);
+		System.out.println(" English Mark:"+English);
+		System.out.println(" Maths Mark:"+Maths);
+		System.out.println(" Chemistry Mark:"+Chemistry);
+		System.out.println(" Physucs Mark:"+Physics);
+
+	}
+}
