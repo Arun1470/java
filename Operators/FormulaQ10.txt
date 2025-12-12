@@ -1,0 +1,10 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double side1=sc.nextDouble();
+       Double side2=sc.nextDouble();
+       Double side3=sc.nextDouble();
+       System.out.println(side1+side2+side3);
+    }
+}

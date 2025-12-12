@@ -1,0 +1,9 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double radi=sc.nextDouble();
+       Double peri=2*Math.PI*radi;
+       System.out.println(peri);
+    }
+}

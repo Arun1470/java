@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double length=sc.nextDouble();
+       Double width=sc.nextDouble();
+       Double height=sc.nextDouble();
+       Double Surfacearea=2*(length*width+length*height+width*height);
+       Double Volume=length*width*height;
+       System.out.println(Surfacearea);
+       System.out.println(Volume);
+    }
+}

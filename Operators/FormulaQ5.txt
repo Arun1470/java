@@ -1,0 +1,15 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double x1=sc.nextDouble();
+       Double y1=sc.nextDouble();
+       Double x2=sc.nextDouble();
+       Double y2=sc.nextDouble();
+       Double difx=x2-x1;
+       Double dify=y2-y1;
+       Double dis=(difx*difx+dify*dify);
+       dis=Math.pow(dis,0.5);
+       System.out.println(dis);
+    }
+}

@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double ar=sc.nextDouble();
+       Double area=6*ar*ar;
+       Double volume=ar*ar*ar;
+       Double peri=12*ar;
+       System.out.println(area);
+       System.out.println(volume);
+       System.out.println(peri);
+    }
+}

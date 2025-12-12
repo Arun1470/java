@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+	    int a=sc.nextInt();
+	    int str1=a/10;
+	    int str=a%10;
+        str1%=10;
+		System.out.println(str1);
+	}
+}

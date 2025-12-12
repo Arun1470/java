@@ -1,0 +1,11 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double radi=sc.nextDouble();
+       Double Surfacearea=4*Math.PI*radi*radi;
+       Double Volume=4.0/3*Math.PI*radi*radi*radi;
+       System.out.println(Surfacearea);
+       System.out.println(Volume);
+    }
+}

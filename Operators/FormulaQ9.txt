@@ -1,0 +1,10 @@
+import java.util.Scanner;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+       Double len=sc.nextDouble();
+       Double Wid=sc.nextDouble();
+       Double peri=2*(len+Wid);
+       System.out.println(peri);
+    }
+}
