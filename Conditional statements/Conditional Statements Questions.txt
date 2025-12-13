@@ -1,0 +1,81 @@
+Number based
+
+Q1.Java Program to find greatest among two numbers
+Q2.Java Program to find smallest among two numbers
+Q3.Java Program to find whether the given number is odd or even number
+Q4.Java Program to find whether the difference between two numbers is even or odd
+Q5.Java Program to find whether the given number is 3 digit number or not
+Q6.Java Program to find greatest among three numbers
+Q7.Java Program to find smallest among three numbers
+Q8.Java Program to find whether the last digit of given number is divisible by 3
+Q9.Java Program to check odd or even using bitwise operator
+Q10.Java Program to check whether the sum of two numbers is even or odd
+Q11. Java Program to check whether the first digit of a 3 digit number is odd or even
+Q12. Java Program to check whether the last digit of a number is odd or even
+Q13. Java Program to check whether a number is positive, negative, or zero
+Q14. Java Program to check whether a number is divisible by both 3 and 5
+Q15. Java Program to check whether a number is divisible by either 3 or 7
+Q16. Java Program to check whether a number is divisible by both 2 and 5 but not by 8.
+Q17. Java Program to check whether two numbers have the same last digit
+Q18. Java Program to check whether a number is a single-digit, two-digit, or three-digit number
+Q19. Java Program to check whether the product of two numbers is positive or negative
+Q20.Java Program to check whether the ASCII value of a character is even or odd.
+
+
+Character Baser
+
+Q1. Java Program to check whether a given character is a vowel or consonant
+Q2. Java Program to check whether a given character is uppercase, lowercase, digit, or special symbol
+Q3. Java Program to check whether a character is alphabet or not
+Q4. Java Program to check whether a character is a digit or not
+Q5. Java Program to check whether two characters are equal or not
+
+Geometry Based
+
+Q1. Java Program to check whether a triangle is equilateral, isosceles, or scalene
+Q2. Java Program to check whether a triangle is right-angled or not
+Q3. Java Program to check whether a point (x, y) lies in which quadrant
+Q4. Java Program to check whether the sum of three angles forms a valid triangle.
+Q5. Java Program to check whether three sides form a valid triangle
+Q6. Write a Java Program to check whether four sides form a square or rectangle.
+Q7. Java Program to calculate the distance between two points (x1,y1) and (x2,y2).
+
+
+Year Based
+
+Q1. Java Program to check whether a year is a leap year or not
+Q2.Java Program to check whether a given year is a century year or not.
+Q3.Java Program to check whether the first two digits and last two digits of a year are equal.
+Q4.Java Program to check whether two given years have the same last digit.
+Q5.Write a Java Program to check whether a given year and month combination is valid and print the number of days in that month (consider leap years for February).
+
+Switch
+
+Q1.Java Program to Arithmetic Calculator using switch case Statements
+Q2.Java Program to check grade of a student based on marks (A, B, Java, Fail)
+Q3.Java Program to check whether the given day number (1–7) is a weekday or weekend
+Q4.Write a Java Program using switch case to print the season based on month number(Winter, Spring, Summer, Autumn).
+Q5.Java Program using switch to implement a mini ATM simulation
+
+Senario Based
+
+Q1.Write a Java Program to calculate different discount for different Bill amount
+Q2.Write a Java Program to check whether a person is eligible to vote (age ≥ 18)
+Q3.Write a Java Program to check whether a person is eligible for senior citizen benefits (age ≥ 60)
+Q4.Write a Java program to display mobile Battery Javaheck – "Low Battery", "50% Javaonsumed", or "Battery Full".
+Q5.Write a Java program to check if temperature is above 100 (fever check).
+Q6.Write a Java program to check pass/fail based on marks (marks ≥ 35 = pass).
+Q7.Write a Java program to calculate electricity bill using slab rates (0–100 free, 101–300 = ₹5/unit, >300 = ₹10/unit) and apply surcharge if consumption exceeds 500 units.
+Q8.Write a Java program to check if an entered PIN matches the stored ATM PIN before allowing withdrawal.
+Q9.Write a Java program to check if withdrawal amount ≤ balance and is a multiple of 100 (ATM Withdrawal Validation).
+Q10.Write a Java program to print "Stop / Ready / Go" based on traffic light color.
+Q11.Write a Java program to apply discount based on purchase amount.
+Q12.Write a Java program to show weather condition (cold, pleasant, hot, heatwave) based on temperature.
+Q13.Write a Java program to display mobile battery status (full, moderate, low).
+Q14.Write a Java program to assign ticket price based on passenger age (child, adult, senior).
+Q15.Write a Java program to check whether vehicle speed exceeds 100 km/h.
+Q16.Write a Java program to validate a mobile number . If it has 10 or more digits, print “Valid Number”, otherwise print “Invalid Number”.
+Q17.Write a Java program to assign different ticket prices based on day of the week (weekday/weekend).
+Q18.Write a Java program to calculate water bill using slab rates (≤1000 liters free, next 2000 @ ₹5, above @ ₹10 per 1000 liters).
+Q19.Write a Java program to display mobile data usage alert – "Low Data", "Half Javaonsumed", or "Data Over" based on usage.
+Q20.Write a Java program to Javaheck if vehicle speed exceeds 100 km/h.("Over-speeding! Fine imposed.","Speed iswithin limit")
